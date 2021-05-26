@@ -104,3 +104,46 @@ Transportation
 
 - Subways
 
+# Unit Preview
+
+## Outcomes
+
+* cause & consequence
+* continuity and change
+* evidence
+
+## Activities
+
+* case studies
+  * Snauq
+  * PNE
+  * Oakridge
+* Humans of Dunbar
+* Field work
+* Complete neighborhood mini-project
+
+# Snauq
+
+With a neighbor consider Goodbye, Snauq by discussing the following:
+* What is where?
+  * What, where, and when was Snauq?
+    * First nations Village
+    * been around since before the 1800's
+    * where Kits/false creek is
+    
+  * Describe what Snauq was like.  How was it shared?
+  
+    * >  I was brought up on the same tradition of change,of love of transformation and appreciation for what is new, but I was not there when Snauq was a garden
+  
+  * What happened to Snauq both in the past and more recently?
+* Why there?
+  * What was attractive originally about Snauq?
+  * What were some of the concerns of the author about Snauq?
+    * worried about losing tradition
+* Why care?
+  *  What is the author’s feelings toward Snauq?
+     *  almost like awe
+     *  missing what is used to be
+  *  What do we learn about the history of Vancouver in Goodbye, Snauq?
+     *  that its not so peachy-keen after all
+  *  What lessons can we apply to today from the story of what happened to Snauq?
