@@ -1,5 +1,6 @@
 <details>
-<summary>**Click for lyrics**</summary>
+<summary>Click for lyrics</summary>
+  
 [Chorus]  
 Oh to live on Sugar Mountain  
 [With the barkers and the colored balloons](https://genius.com/Neil-young-sugar-mountain-lyrics#note-16959146)  
