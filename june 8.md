@@ -15,5 +15,6 @@ all current logging will be put on hold
 On Friday: giving a pitch or assessment, and we should **have something to say**.
 
 ### 10 important things
+
 ![20210608_150231](https://user-images.githubusercontent.com/37968460/121263954-40412880-c86b-11eb-9978-c562514ab8cc.jpg)
 ![20210608_151203](https://user-images.githubusercontent.com/37968460/121265111-1db00f00-c86d-11eb-9f1a-d4b626c796bf.jpg)
