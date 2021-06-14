@@ -7,9 +7,9 @@
 
 | Helpful Resources                                            |
 | :----------------------------------------------------------- |
-| <p>- [City of Vancouver Archives](https://searcharchives.vancouver.ca/)</p><p>- [UBC Archives Photograph Collection](https://open.library.ubc.ca/collections/arphotos) </p><p>- [False Creek Flats Plan](https://drive.google.com/file/d/1j3Y8MCDkbwEc22dY3li5Vwzh1O0g6gZ7/view?usp=sharing)</p><p>- [New St Paul's Social Impact Study](https://drive.google.com/file/d/1FFT7odTvu_xz9UMXBFW04N-Xn3OYoTyV/view?usp=sharing)</p><p>- [Strathcona Social Indicators Profile ](https://drive.google.com/file/d/1JCpo8f1uZdByx3dSK_x3LcA-TVwu7W_s/view?usp=sharing)</p><p>- [Cesnaem- Museum of Vancouver ](https://museumofvancouver.ca/csnam-the-city-before-the-city)</p> |
+| - [City of Vancouver Archives](https://searcharchives.vancouver.ca/)- [UBC Archives Photograph Collection](https://open.library.ubc.ca/collections/arphotos) - [False Creek Flats Plan](https://drive.google.com/file/d/1j3Y8MCDkbwEc22dY3li5Vwzh1O0g6gZ7/view?usp=sharing)- [New St Paul's Social Impact Study](https://drive.google.com/file/d/1FFT7odTvu_xz9UMXBFW04N-Xn3OYoTyV/view?usp=sharing)- [Strathcona Social Indicators Profile](https://drive.google.com/file/d/1JCpo8f1uZdByx3dSK_x3LcA-TVwu7W_s/view?usp=sharing)-  [Cesnaem- Museum of Vancouver](https://museumofvancouver.ca/csnam-the-city-before-the-city)  |
 
-**Part 2- Analysis (3 Questions, 5 Themes, Continuity and Change)**
+## Part 2- Analysis (3 Questions, 5 Themes, Continuity and Change)
 
 |                                                        | **Time Period #1**                                           | **Time Period #2**           |
 | :----------------------------------------------------- | :----------------------------------------------------------- | :--------------------------- |
@@ -17,12 +17,12 @@
 | **Why is it there?**                                   | Because of mother nature?                                    |                              |
 | **Why care?**                                          | Because before all of the colonization and bad stuff happening it was a really nice place were many differing groups of people could live together in relative peace |                              |
 |                                                        | **Time Period 1 to 2**                                       | **Time Period 2 to Present** |
-| <p>**Continuity**</p><p>What has stayed the same? </p> | Very little.                                                 |                              |
-| <p>**Change**</p><p>What has shifted?** </p>           | Almost everything. The majority of the area that we know today had been filled in by this point. Its use in Expo 86 really helped it to become a much better and brighter place. |                              |
+| **Continuity**What has stayed the same?  | Very little.                                                 |                              |
+| **Change**What has shifted?**            | Almost everything. The majority of the area that we know today had been filled in by this point. Its use in Expo 86 really helped it to become a much better and brighter place. |                              |
 
-**Part 3- Conclusions**
+## Part 3- Conclusions
 
-| **Prompt Question**                                  | <p>Using our case study as an example, how does geographic thinking give us insight into a place and what should happen to it over time? (3-5 minutes)</p><p>You should reference at least 2 components from  of the following: </p><p>- Views of Land</p><p>- Complete Neighbourhood Criteria </p><p>- Sense of Place</p> |
+| **Prompt Question**                                  | Using our case study as an example, how does geographic thinking give us insight into a place and what should happen to it over time? (3-5 minutes)You should reference at least 2 components from  of the following: - Views of Land- Complete Neighbourhood Criteria - Sense of Place |
 | :--------------------------------------------------- | :----------------------------------------------------------- |
 | **Link to your File**                                |                                                              |
 | **Confirm that you have checked the share settings** |                                                              |

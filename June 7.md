@@ -1,10 +1,6 @@
-# Continuity & change
-
 # Complete neighborhood
 
-**Today**
-
-
+## Continuity & change
 
 From city of Vancouver:
 
@@ -18,8 +14,6 @@ From city of Vancouver:
       1. spans more than just the downtown eastside (i.e. suburbs)
 3. city planners have to take into account new considerations for the current context of its residents.
 
-
-
 Context: Vancouver pop. growth
 
 1. Why care?
@@ -27,12 +21,10 @@ Context: Vancouver pop. growth
 3. what is the context for Vancouver(what is here?)
 4. Why does this matter for Vancouver
 5. what questions might geographers ask?
-  1. where are these people in the land
-  2. population density?
-  3. how much space is there left expand into?
-        1. carrying capacity
-
-​      
+   1. where are these people in the land
+   2. population density?
+   3. how much space is there left expand into?
+      1. carrying capacity
 
 Context: affordability crisis
 
@@ -40,24 +32,18 @@ Context: affordability crisis
 
 what caused the spikes in cost from 2016-18
 
-
-
 Context: social isolation
 
 1 in 4 report being in isolation
 
 1 in 7 report being lonely
 
-
-
-## Complete neighborhood
+## Complete neighborhood criteria
 
 15 minute city
 
 - satisfaction of needs in 15 mins
 - all needs for human life within 15 mins travel time.
-
-
 
 ### Definitions
 
@@ -67,7 +53,7 @@ Context: social isolation
    1. about strengthening social connections
 3. a city of complete neighborhoods offers safe connections convenient walking, rolling and biking routs and easy transit access to key destinations
 
-
+other list of things
 
 1. daily weekly needs
 2. sociability
@@ -79,11 +65,7 @@ Context: social isolation
 
 support a greater diversity of housing.
 
-
-
 ***Missing middle housing***
-
-
 
 ### Open spaces
 
@@ -93,27 +75,21 @@ access to nature|parks
 
 how would you get to shops if they aren't close by
 
-
-
 ### Streets as places/connections
 
 not as just getting from a &#8594; b
 
+##  &#8595; Important stuff for complete neighborhood
 
+- having things close by("proximity")
+- a mix of things("Variety")
+- sustainable connections("Mobility")
+- safety and comfort("Accessibility")
+- human scale("Scale")
+- pace of change("Incrementalism")
+- distinctiveness("Identity")
 
-
-
-##  &#8595; Important stuff for complete neighborhood 
-
-* having things close by("proximity")
-* a mix of things("Variety")
-* sustainable connections("Mobility")
-* safety and comfort("Accessibility")
-* human scale("Scale")
-* pace of change("Incrementalism")
-* distinctiveness("Identity")
-
-# Other
+## Other
 
 ## YouTube video
 
@@ -123,9 +99,8 @@ power lines
 
 J-walkers
 
-### Different 
+### Different
 
 J-walkers
 
 Trollies
-

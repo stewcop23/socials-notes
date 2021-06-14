@@ -1,4 +1,4 @@
-## What is Geography?
+# What is Geography?
 
 * the study of places & the relations between people and their environments.
 * geographers explore both the physical properties of the earth surface& the human societies spread across it.
@@ -8,7 +8,7 @@
   * why they are there
   * how they develop and change over time
 
-### Two main branches 
+## Two main branches
 
 * Physical
   * season
@@ -17,11 +17,11 @@
 * Human
   * distribute the networks of humanity
 
-# Five Themes
+## Five Themes
 
 1. Location
    1. absolute
-      1. GPS 
+      1. GPS
    2. relative
       1. Around here
 2. place
@@ -55,9 +55,9 @@
          1. color groups ~80
             1. classes ~20
 
-# Three essential questions
+## Three essential questions
 
-## What is where?
+### What is where?
 
 features of the earth
 
@@ -65,20 +65,18 @@ physical
 
 Also Who
 
-## Why there?
+### Why there?
 
 * connections
 
 * interrelationships
 * processes
 
-## Why we care?
+### Why we care?
 
-* importance 
+* importance
 * relevance
 * action/reaction
-
-
 
 ## Alexandra Morton Tweet
 
@@ -86,13 +84,11 @@ Also Who
 * Location
 * Movement
 
-
-
 ## Councilor Boyle
 
 ### What?
 
-where these coop housing would be built 
+where these coop housing would be built
 
 suitable locations
 
@@ -102,17 +98,17 @@ who needs these
 
 Transportation
 
-- Subways
+* Subways
 
-# Unit Preview
+## Unit Preview
 
-## Outcomes
+### Outcomes
 
 * cause & consequence
 * continuity and change
 * evidence
 
-## Activities
+### Activities
 
 * case studies
   * Snauq
@@ -122,17 +118,16 @@ Transportation
 * Field work
 * Complete neighborhood mini-project
 
-# Snauq
+## Snauq
 
 With a neighbor consider Goodbye, Snauq by discussing the following:
+
 * What is where?
   * What, where, and when was Snauq?
     * First nations Village
     * been around since before the 1800's
     * where Kits/false creek is
-    
   * Describe what Snauq was like.  How was it shared?
-  
     * >  I was brought up on the same tradition of change,of love of transformation and appreciation for what is new, but I was not there when Snauq was a garden
   
   * What happened to Snauq both in the past and more recently?
@@ -141,9 +136,9 @@ With a neighbor consider Goodbye, Snauq by discussing the following:
   * What were some of the concerns of the author about Snauq?
     * worried about losing tradition
 * Why care?
-  *  What is the author’s feelings toward Snauq?
-     *  almost like awe
-     *  missing what is used to be
-  *  What do we learn about the history of Vancouver in Goodbye, Snauq?
-     *  that its not so peachy-keen after all
-  *  What lessons can we apply to today from the story of what happened to Snauq?
+  * What is the author’s feelings toward Snauq?
+  * almost like awe
+  * missing what is used to be
+  * What do we learn about the history of Vancouver in Goodbye, Snauq?
+    * that its not so peachy-keen after all
+  * What lessons can we apply to today from the story of what happened to Snauq?
