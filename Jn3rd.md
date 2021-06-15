@@ -1,24 +1,20 @@
 # Theories in land use
 
-
-
 ## Who should regulate?
 
-
-
-# Songs about land 
+## Songs about land
 
 1. what comes to mind?
 
 large industry
 
-reminiscing	
+reminiscing
 
 cant go back to what isn't there
 
-2. why did he write this song
+1. why did he write this song
 
-# How do you define Nature?
+## How do you define Nature?
 
 open
 
@@ -26,19 +22,15 @@ carefree
 
 green
 
-**No humans mentioned**
+ notice that **No humans mentioned**
 
 nature vs natural
 
-
-
-### Commodity 
+### Commodity
 
 ### Commodification
 
-### Consumption 
-
-
+### Consumption
 
 Human centric
 
@@ -54,47 +46,33 @@ influential in 17-1900s
 
 anthropocentric view providing the moral and economic rational for human exploration of nature.
 
-
-
 ## Conservation | Preservation
 
 ### Conservation
 
 care and protection of the environment for future use through the responsible use of natural resources.
 
-
-
 Use responsibility
-
-
 
 Shoe analogy
 
 use shoe very infrequently
 
-
-
 ### Preservation
 
 protects the environment from harmful human activities.
 
-
-
 Don't touch at all
-
-
 
 Shoe analogy
 
 use shoe Never
 
-
-
-# Adam Smith
+## Adam Smith
 
 Scottish
 
-*Wealth of nations*
+wrote *Wealth of nations*
 
 * Invisible hand
 * laissez-faire
@@ -105,7 +83,7 @@ Scottish
 
 Government has to set standards, however it is more like building the infrastructure than actually influencing the market. (more infrastructure)
 
-# Tragedy of the commons
+## Tragedy of the commons
 
 "what is common to the greatest number gets the least amount of care"
 
@@ -113,18 +91,12 @@ William forester Lloyd
 
 garret Harding
 
-
-
 short term self interest over long term benefits.
-
-
 
 "what is good for all of us is good for each of us"
 
-# Interactive lecture 
+## Interactive lecture
 
-
-
-# Connections
+## Connections
 
 between this and Robin wall Kimmerer
