@@ -1,4 +1,4 @@
-# Significance 
+# Significance
 
 * Part of a pattern
 * Turning point
